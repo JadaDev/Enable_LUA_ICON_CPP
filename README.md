@@ -1,5 +1,7 @@
 # Enabling GetItemIcon Function in LUA (Latest as of 2024/07/04)
 
+NON C++ Version : https://github.com/JadaDev/LuaIconsEasy
+
 ![GetItemIcon](https://raw.githubusercontent.com/JadaDev/Enable_LUA_ICON_CPP/main/GetItemIcon%20With%20GetItemLink.png)
 
 This guide explains how to add the GetItemIcon function in LUA for TrinityCore. Credits to Rocket2 & Artamedes for their assistance!
